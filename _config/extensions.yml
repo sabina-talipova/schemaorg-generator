@@ -1,0 +1,6 @@
+# ---
+# Name: shema-markup-site-config
+# ---
+# SilverStripe\SiteConfig\SiteConfig:
+#   extensions:
+#     - OrganisationSchema\Extensions\OrganisationSchemaSiteConfigExtension
